@@ -1,5 +1,10 @@
-$backgroundColor: #e5e5e5;
+$backgroundColor: tomato;
 
 body {
-  background-color: $backgroundcolor;
+  background-color: tomato;
+  color: blue;
+}
+h1 {
+  color: rgb(179, 161, 157);
+  background-color: yellow;
 }
